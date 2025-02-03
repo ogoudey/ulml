@@ -1,0 +1,7 @@
+
+<!ELEMENT logit (shipping, features, id, updaters, local)>
+<!ELEMENT shipping (#PCDATA)>
+<!ELEMENT features (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT updaters (#PCDATA)> 
+<!ELEMENT local (#PCDATA)> 
